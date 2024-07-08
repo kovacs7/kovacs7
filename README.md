@@ -1,4 +1,5 @@
-![1361663](https://github.com/kovacs7/kovacs7/assets/129580965/3459493f-bf8b-4951-b8d3-363881331328)
+![1361663 (1) (1) (1)](https://github.com/kovacs7/kovacs7/assets/129580965/597d5823-917e-4904-af41-f92008923cb5)
+
 
 # 💫 About Me:
 
