@@ -49,7 +49,7 @@ Most of my reports are private and submitted through platforms like [HackenProof
 
 **Tooling:** Foundry, Hardhat, Slither, basic fuzzing workflows
 
-**Concepts:** AMMs, Lending protocols, NFT marketplace, Prediction protcols, DEX, DeFi mechanics, governance systems, tokenomics security
+**Concepts:** AMMs, Lending protocols, NFT marketplace, Prediction protocols, DEX, DeFi mechanics, governance systems, tokenomics security
 
 ## **Research Methodology**
 
