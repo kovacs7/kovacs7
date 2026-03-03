@@ -1,70 +1,87 @@
-# **Raven - Web3 Security Researcher**
+# **Raven | Independent Security Researcher**
+### *High-Impact Smart Contract Audits & Protocol Security*
 
-> “Security is patience applied relentlessly”
-> 
+[![HackenProof Rank](https://img.shields.io/badge/HackenProof-Top%20150%20(All--Time)-yellow)](https://hackenproof.com/hackers/kovac7) 
+[![Code4rena Podium](https://img.shields.io/badge/Code4rena-2nd%20Place%20(Merkl)-silver)](https://code4rena.com/@kovacs7)
 
-Username I go by in most web3 security platforms - @kovacs7
+I am an independent security researcher specializing in the deep-logic analysis of EVM-based protocols. I focus on securing Protocol TVL by identifying complex economic vulnerabilities and state-machine flaws that automated tools miss.
 
-### Public Web3 Security Profiles
+**[📩 Work With Me](mailto:rvn.origin@gmail.com)** | **[📅 Book a Consultation](https://calendly.com/rvn-origin/30min)** | **[🐦 Twitter / X](https://x.com/0xRavenSecurity)**
 
-- Code4rena - https://code4rena.com/@kovacs7
-- HackenProof - https://hackenproof.com/hackers/kovac7
-- Sherlock - https://audits.sherlock.xyz/watson/kovacs7
-- Cantina - https://cantina.xyz/u/kovacs7
+---
 
-### **Contact**
+## **📊 Performance Metrics**
+* **Total Findings:** 19 Vulnerabilities
+* **High/Medium Severity:** 11 Findings
+* **HackenProof Ranking:** Top 150 All-Time Researchers
+* **Competitive Excellence:** 2nd Place (Podium) finish on Code4rena
+> *Note: Updated every month. Last updated on 8th january 2026*
 
-- Twitter / X: https://x.com/0xRavenOfHeaven
-- Email: rvn.origin@gmail.com
-- Calendly - https://calendly.com/rvn-origin/30min
+---
 
-## **About**
+## **🛡️ Audit Portfolio**
 
-I go by the name **Raven**, and I use the username k**ovacs7** across multiple audit contest and bug bounty platforms.
+### **Public Competitive Audits**
+*Proven performance in high-stakes, time-constrained security reviews.*
 
-I began my Web3 security journey on **27 August 2025**. As of writing this section (11 January 2026), it has been just over four months since I entered the space. This is not a pitch – it is simply a record of what I have done so far.
+| Protocol | Type | Result | Findings | Report |
+| :--- | :--- | :--- | :--- | :--- |
+| **Merkl** | Distribution | 🥈 **2nd Place** | 1 Medium | [View Report](https://code4rena.com/audits/2025-11-merkl/submissions/S-71) |
+| **Index Fun** | Order Book | **Rank 14** | 1 High | [View Report](https://audits.sherlock.xyz/contests/1197/voting/466) |
 
-My first audit contest involved reviewing a large and complex codebase (4,000+ SLOC), where I identified my first solo finding. Beginning with a codebase of that size meant working directly with complex protocol logic from the start.
+### **Private Security Reviews & Bug Bounties**
+*Discreet security assessments for protocols and private firms.*
 
-Since then, I have participated in multiple audits and discovered **a critical severity vulnerability**, continuing to focus on meaningful, high impact issues.
+| Protocol Category | Audit Type | Severity | Status |
+| :--- | :--- | :--- | :--- |
+| **Lending & CDP** | Private Review | 1 High / 1 Med / 1 Low  | Fixed / Confidential |
+| **Prediction Protocol** | Private Review | 1 Critical / 2 High / 2 Medium / 1 Low | Resolved |
+| **DEX / AMM Logic** | Private Review | 1 Med | Fixed |
+| **NFT Infrastructure** | Private Review | 1 Med / 1 Low | Fixed |
 
-**Within three months** of entering Web3 security, I completed my first audit contest on **Code4rena (C4)** and secured **2nd place**, marking my first podium finish.
+> *Note: Full reports for private engagements are subject to NDAs and are not publicly disclosed to maintain protocol security and competitive advantage.*
 
-This README reflects my progress as of **11 January 2026**. I will update it regularly as I continue to improve.
+---
 
-## Audit Contests & Public Reports
+## **🛠️ Technical Expertise**
 
-Most of my reports are private and submitted through platforms like [HackenProof](https://hackenproof.com/hackers/kovac7](https://hackenproof.com/hackers/kovac7)), but the publicly available findings are listed below and can be cross-verified through my profiles. I have participated in **7 audit contests and 2 bug bounties**, identifying a total of **19 vulnerabilities**, including **11 High and Medium severity issues**. Public reports from platforms such as Code4rena and Sherlock are linked below. (As of 11th January 2026)
+### **Protocol Specialization**
+* **DeFi Primitives:** AMMs (Uniswap v2/v3 logic), Lending/Borrowing, Yield Aggregators, CDP.
+* **Infrastructure:** Governance (DAOs), Tokenomics (OFT, Staking), NFT Marketplaces.
+* **System Design:** Complex state transition analysis, Access Control, and Oracle integrations.
 
-| Platform | Protocol Name | Severity | Position/Bounty | Public Report Link |
-| --- | --- | --- | --- | --- |
-| Code4rena | Merkl | Medium | 2nd | [View Report](https://code4rena.com/audits/2025-11-merkl/submissions/S-71) |
-| Sherlock | Index Fun Order Book | High | 14th | [View Report](https://audits.sherlock.xyz/contests/1197/voting/466) |
+### **Security Stack**
+* **Testing & Fuzzing:** Foundry (Advanced), Hardhat.
+* **Static Analysis:** Slither, Aderyn.
+* **Manual Review:** Exhaustive line-by-line codebase auditing.
+* **Exploit Dev:** Full Proof-of-Concept (PoC) development for all critical findings.
 
-## Stack I use Or Familiar with
+---
 
-**Smart Contracts:** Solidity, EVM architecture
+## **🔗 Professional Links**
+* **HackenProof:** [kovac7](https://hackenproof.com/hackers/kovac7)
+* **Code4rena:** [@kovacs7](https://code4rena.com/@kovacs7)
+* **Sherlock:** [kovacs7](https://audits.sherlock.xyz/watson/kovacs7)
+* **Cantina:** [kovacs7](https://cantina.xyz/u/kovacs7)
 
-**Security:** Manual auditing, exploit reasoning, invariant analysis
+---
 
-**Tooling:** Foundry, Hardhat, Slither, basic fuzzing workflows
+## **🔍 Security Methodology**
+I follow a systematic process to ensure maximum coverage and protocol safety:
 
-**Concepts:** AMMs, Lending protocols, NFT marketplace, Prediction protocols, DEX, DeFi mechanics, governance systems, tokenomics security
+1.  **Architecture Deep-Dive:** Understanding the "Business Logic" and intended state flow.
+2.  **Threat Modeling:** Identifying trust boundaries and high-value attack surfaces.
+3.  **Manual Code Review:** Searching for edge cases, logic flaws, and rounding errors.
+4.  **Invariant Testing:** Defining protocol "Truths" and attempting to break them via simulation.
+5.  **PoC Validation:** Every finding is validated with an executable script to prove impact.
+6.  **Mitigation Guidance:** Providing clear, actionable steps for developers to patch vulnerabilities.
 
-## **Research Methodology**
+---
 
-1. Full protocol architecture review
-2. Trust boundary mapping
-3. Invariant and state transition analysis
-4. Manual line-by-line contract review
-5. Edge-case and economic simulation reasoning
-6. Proof-of-Concept validation
+## **🤝 Engagement Availability**
+I am currently accepting **Private Audit Engagements** and **Security Retainers.**
 
-## **Engagement Availability**
+* **Current Availability:** Open for bookings starting **Late March 2026**.
+* **How to Start:** Please send project details (Github Repo/SLOC) via [Twitter DM](https://x.com/0xRavenOfHeaven) or [Email](mailto:rvn.origin@gmail.com).
 
-Open to:
-
-- Full-time Smart Contract Security Engineer roles
-- Protocol Security Research positions
-- Private audit engagements
-- Competitive audit collaborations
+> *"Security is patience applied relentlessly."*
