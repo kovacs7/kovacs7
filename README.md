@@ -30,16 +30,16 @@ I am an independent security researcher specializing in the deep-logic analysis 
 | **Index Fun** | Order Book | **Rank 14** | 1 High | [View Report](https://audits.sherlock.xyz/contests/1197/voting/466) |
 
 ### **Private Security Reviews & Bug Bounties**
-*Discreet security assessments for protocols and private firms.*
+*Security assessments and bug bounty findings for protocols and private firms.*
 
-| Protocol Category | Audit Type | Severity | Status |
-| :--- | :--- | :--- | :--- |
-| **Lending & CDP** | Private Review | 1 High / 1 Med / 1 Low  | Fixed / Confidential |
-| **Prediction Protocol** | Private Review | 1 Critical / 2 High / 2 Medium / 1 Low | Resolved |
-| **DEX / AMM Logic** | Private Review | 1 Med | Fixed |
-| **NFT Infrastructure** | Private Review | 1 Med / 1 Low | Fixed |
+| Protocol | Category | Review Type | Findings | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Reliq Finance** | Lending Protocol | Private Review | 1 High / 1 Medium / 1 Low | Fixed / Confidential |
+| **Rain Prediction Marketplace** | Prediction Protocol | Private Review | 1 Critical / 2 High / 2 Medium / 1 Low | Resolved |
+| **DEX / AMM** | DeFi Infrastructure | Private Review | 1 Medium | Pending |
+| **Blockz NFT** | NFT Infrastructure | Private Review | 1 High / 1 Medium / 1 Low | Fixed |
 
-> *Note: Full reports for private engagements are subject to NDAs and are not publicly disclosed to maintain protocol security and competitive advantage.*
+> *Note: Some findings originate from private reviews and bug bounty engagements. Reports and technical details are not publicly disclosed due to NDAs, protocol security considerations, and platform policies.*
 
 ---
 
