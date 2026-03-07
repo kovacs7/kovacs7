@@ -21,16 +21,16 @@ I am an independent security researcher specializing in the deep-logic analysis 
 
 ## **🛡️ Audit Portfolio**
 
-### **Public Competitive Audits**
-*Proven performance in high-stakes, time-constrained security reviews.*
+### **Public Audit Reports**
+*Audit contest findings with publicly available reports.*
 
 | Protocol | Type | Result | Findings | Report |
 | :--- | :--- | :--- | :--- | :--- |
 | **Merkl** | Distribution | 🥈 **2nd Place** | 1 Medium | [View Report](https://code4rena.com/audits/2025-11-merkl/submissions/S-71) |
 | **Index Fun** | Order Book | **Rank 14** | 1 High | [View Report](https://audits.sherlock.xyz/contests/1197/voting/466) |
 
-### **Additional Audit Contest & Bug Bounty Findings**
-*Security vulnerabilities identified during audit contests and bug bounty programs. Detailed reports remain private but can be verified via my researcher profiles on the respective platforms.*
+### **Undisclosed Audit Contest & Bug Bounty Findings**
+*Security vulnerabilities identified during audit contests and bug bounty programs. Detailed reports remain private but can be **verified via my researcher profiles** on the respective platforms.*
 
 | Protocol | Category | Engagement Type | Platform | Findings | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -42,6 +42,14 @@ I am an independent security researcher specializing in the deep-logic analysis 
 | **RabbitHabit Lottery Game** | Lottery / Gaming | Bug Bounty | Remedy (r.xyz) | 1 High (Duplicate) | Duplicate |
 
 > *Note: Some reports remain private due to responsible disclosure policies. Findings can be verified through my researcher profiles on the respective platforms.*
+
+---
+
+## **🔗 Professional Links**
+* **HackenProof:** [kovac7](https://hackenproof.com/hackers/kovac7)
+* **Code4rena:** [@kovacs7](https://code4rena.com/@kovacs7)
+* **Sherlock:** [kovacs7](https://audits.sherlock.xyz/watson/kovacs7)
+* **Cantina:** [kovacs7](https://cantina.xyz/u/kovacs7)
 
 ---
 
@@ -57,14 +65,6 @@ I am an independent security researcher specializing in the deep-logic analysis 
 * **Static Analysis:** Slither, Aderyn.
 * **Manual Review:** Exhaustive line-by-line codebase auditing.
 * **Exploit Dev:** Full Proof-of-Concept (PoC) development for all critical findings.
-
----
-
-## **🔗 Professional Links**
-* **HackenProof:** [kovac7](https://hackenproof.com/hackers/kovac7)
-* **Code4rena:** [@kovacs7](https://code4rena.com/@kovacs7)
-* **Sherlock:** [kovacs7](https://audits.sherlock.xyz/watson/kovacs7)
-* **Cantina:** [kovacs7](https://cantina.xyz/u/kovacs7)
 
 ---
 
