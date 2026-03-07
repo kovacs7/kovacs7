@@ -29,17 +29,19 @@ I am an independent security researcher specializing in the deep-logic analysis 
 | **Merkl** | Distribution | 🥈 **2nd Place** | 1 Medium | [View Report](https://code4rena.com/audits/2025-11-merkl/submissions/S-71) |
 | **Index Fun** | Order Book | **Rank 14** | 1 High | [View Report](https://audits.sherlock.xyz/contests/1197/voting/466) |
 
-### **Private Security Reviews & Bug Bounties**
-*Security assessments and bug bounty findings for protocols and private firms.*
+### **Additional Audit Contest & Bug Bounty Findings**
+*Security vulnerabilities identified during audit contests and bug bounty programs. Detailed reports remain private but can be verified via my researcher profiles on the respective platforms.*
 
-| Protocol | Category | Review Type | Findings | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **Reliq Finance** | Lending Protocol | Private Review | 1 High / 1 Medium / 1 Low | Fixed / Confidential |
-| **Rain Prediction Marketplace** | Prediction Protocol | Private Review | 1 Critical / 2 High / 2 Medium / 1 Low | Resolved |
-| **DEX / AMM** | DeFi Infrastructure | Private Review | 1 Medium | Pending |
-| **Blockz NFT** | NFT Infrastructure | Private Review | 1 High / 1 Medium / 1 Low | Fixed |
+| Protocol | Category | Engagement Type | Platform | Findings | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Reliq Finance** | Lending Protocol | Public Audit Contest | HackenProof | 1 High / 1 Medium / 1 Low | Fixed / Report Private |
+| **Rain Prediction Marketplace** | Prediction Protocol | Public Audit Contest | HackenProof | 1 Critical / 2 High / 2 Medium / 1 Low | Resolved |
+| **DEX / AMM** | DeFi Infrastructure | Bug Bounty | HackenProof | 1 Medium | Pending |
+| **Blockz NFT** | NFT Infrastructure | Public Audit Contest | HackenProof | 1 High / 1 Medium / 1 Low | Fixed |
+| **SuperFirst** | Lottery / Gaming | Bug Bounty | Remedy (r.xyz) | 1 High (Duplicate) | Duplicate |
+| **RabbitHabit Lottery Game** | Lottery / Gaming | Bug Bounty | Remedy (r.xyz) | 1 High (Duplicate) | Duplicate |
 
-> *Note: Some findings originate from private reviews and bug bounty engagements. Reports and technical details are not publicly disclosed due to NDAs, protocol security considerations, and platform policies.*
+> *Note: Some reports remain private due to responsible disclosure policies. Findings can be verified through my researcher profiles on the respective platforms.*
 
 ---
 
