@@ -1,5 +1,4 @@
 # **Raven | Independent Security Researcher**
-### *High-Impact Smart Contract Audits & Protocol Security*
 
 [![HackenProof Rank](https://img.shields.io/badge/HackenProof-Top%20150%20(All--Time)-yellow)](https://hackenproof.com/hackers/kovac7) 
 [![Code4rena Podium](https://img.shields.io/badge/Code4rena-2nd%20Place%20(Merkl)-silver)](https://code4rena.com/@kovacs7)
