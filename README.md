@@ -33,10 +33,10 @@ I am an independent security researcher specializing in deep logic analysis of E
 
 | Protocol | Category | Engagement Type | Platform | Findings | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Reliq Finance** | Lending Protocol | Public Audit Contest | HackenProof | 1 High / 1 Medium / 1 Low | Fixed / Report Private |
+| **Reliq Finance** | Lending Protocol | Public Audit Contest | HackenProof | 1 High / 1 Medium / 1 Low | Resolved |
 | **Rain Prediction Marketplace** | Prediction Protocol | Public Audit Contest | HackenProof | 1 Critical / 2 High / 2 Medium / 1 Low | Resolved |
 | **DEX / AMM** | DeFi Infrastructure | Bug Bounty | HackenProof | 1 Medium | Pending |
-| **Blockz NFT** | NFT Infrastructure | Public Audit Contest | HackenProof | 1 High / 1 Medium / 1 Low | Fixed |
+| **Blockz NFT** | NFT Infrastructure | Public Audit Contest | HackenProof | 1 High / 1 Medium / 1 Low | Resolved |
 | **SuperFirst** | Lottery / Gaming | Bug Bounty | Remedy (r.xyz) | 1 High (Duplicate) | Duplicate |
 | **RabbitHabit Lottery Game** | Lottery / Gaming | Bug Bounty | Remedy (r.xyz) | 1 High (Duplicate) | Duplicate |
 
