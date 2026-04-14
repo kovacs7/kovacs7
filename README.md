@@ -3,7 +3,7 @@
 [![HackenProof Rank](https://img.shields.io/badge/HackenProof-Top%20150%20(All--Time)-yellow)](https://hackenproof.com/hackers/kovac7) 
 [![Code4rena Podium](https://img.shields.io/badge/Code4rena-2nd%20Place%20(Merkl)-silver)](https://code4rena.com/@kovacs7)
 
-I am an independent security researcher specializing in deep logic analysis of EVM-based protocols, with a focus on securing protocol TVL by uncovering complex economic vulnerabilities and state-machine flaws that automated tools often overlook.
+I am an independent security researcher specializing in deep logic analysis of EVM/SVM-based protocols, with a focus on securing protocol TVL by uncovering complex economic vulnerabilities and state-machine flaws that automated tools often overlook.
 
 **[📩 Work With Me](mailto:rvn.origin@gmail.com)** | **[📅 Book a Consultation](https://calendly.com/rvn-origin/30min)** | **[🐦 Twitter / X](https://x.com/0xRavenSecurity)**
 
