@@ -10,8 +10,8 @@ I am an independent security researcher specializing in deep logic analysis of E
 ---
 
 ## **📊 Performance Metrics**
-* **Total Findings:** 19 Vulnerabilities
-* **High/Medium Severity:** 11 Findings
+* **Total Findings:** 26 Vulnerabilities
+* **High/Medium Severity:** 19 Findings
 * **HackenProof Ranking:** Top 150 All-Time Researchers
 * **Competitive Excellence:** 2nd Place (Podium) finish on Code4rena
 > *Note: Updated every month. Last updated on 8th january 2026*
